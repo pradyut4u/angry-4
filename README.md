@@ -1,2 +1,1 @@
-# angry-4
-catapult
+# AngryBirdsStage4
